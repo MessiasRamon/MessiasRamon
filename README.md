@@ -22,7 +22,7 @@ Olá, eu sou Messias!
     align="left" 
     alt="Flask"
     title="Flask" 
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" 
 />
@@ -30,7 +30,7 @@ Olá, eu sou Messias!
     align="left" 
     alt="SQLAlchemy"
     title="SQLAlchemy" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" 
 />
@@ -38,7 +38,7 @@ Olá, eu sou Messias!
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
@@ -46,7 +46,7 @@ Olá, eu sou Messias!
     align="left" 
     alt="SQL Developer" 
     title="SQL Developer"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
 />
@@ -54,7 +54,7 @@ Olá, eu sou Messias!
     align="left" 
     alt="Tensor flow" 
     title="Tensor flow"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
 />
@@ -62,7 +62,7 @@ Olá, eu sou Messias!
     align="left" 
     alt="Spring" 
     title="Spring"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
 />
@@ -70,7 +70,7 @@ Olá, eu sou Messias!
     align="left" 
     alt="Hibernate"
     title="Hibernate" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" 
 />
@@ -78,7 +78,7 @@ Olá, eu sou Messias!
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -86,7 +86,7 @@ Olá, eu sou Messias!
     align="left" 
     alt="Thymeleaf" 
     title="Thymeleaf"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original-wordmark.svg" 
 />
@@ -94,7 +94,7 @@ Olá, eu sou Messias!
     align="left" 
     alt="JUnit" 
     title="JUnit"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" 
 />
@@ -102,7 +102,7 @@ Olá, eu sou Messias!
     align="left" 
     alt="Android" 
     title="Android"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
 />
