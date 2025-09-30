@@ -8,7 +8,7 @@ Olá, eu sou Messias!
 
 - Atuo como Desenvolvedor de Software e Pesquisador no **Laboratório de Computação Inteligente Aplicada (LaCInA)**
 
-- Formado no curso técnico integrado de Informática pelo IFPB, possuo sólida base técnica e experiência no desenvolvimento full-stack para aplicações WEB e nativas Android. Minhas competências abrangem bancos de dados, SQL e a implementação de ferramentas e práticas DevOps — como Docker e pipelines de CI/CD
+- Formado no curso técnico integrado de Informática pelo IFPB, possuo uma base técnica sólida e experiência no desenvolvimento full-stack para aplicações WEB e nativas Android. Minhas competências abrangem bancos de dados, SQL e a implementação de ferramentas e práticas DevOps — como Docker e pipelines de CI/CD
 
 
 
